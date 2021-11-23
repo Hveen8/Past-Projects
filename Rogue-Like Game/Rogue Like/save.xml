@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<data>
+<highscore></highscore>
+<magic>
+<spell>
+<name>Blast</name>
+<cost>10</cost>
+<power>2</power>
+</spell>
+</magic>
+</data>
